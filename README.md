@@ -34,7 +34,7 @@ This project was developed with the following technologies:
 
 Habits is an app to help track habits.
 
-- [Check out the project online](https://maykbrito.github.io/nlw-setup)
+- [Check out the project online](https://eduardojigub.github.io/nlw-habit-tracker-explorer/)
 
 ## 🔖 Layout
 
