@@ -38,7 +38,7 @@ Habits is an app to help track habits.
 
 ## 🔖 Layout
 
-You can preview the project layout through [DESSE LINK](https://www.figma.com/community/file/1195327109778210238). You must have an account at [Figma](https://figma.com) to access it.
+You can preview the project layout through [HERE](https://www.figma.com/community/file/1195327109778210238). You must have an account at [Figma](https://figma.com) to access it.
 
 ## :memo: License
 
